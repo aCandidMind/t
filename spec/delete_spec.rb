@@ -1,5 +1,6 @@
 # encoding: utf-8
 require 'helper'
+require 'readline'
 
 describe T::Delete do
   before do

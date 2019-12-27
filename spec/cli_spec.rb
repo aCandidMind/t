@@ -1,5 +1,6 @@
 # encoding: utf-8
 require 'helper'
+require 'readline'
 
 describe T::CLI do
   before :all do
